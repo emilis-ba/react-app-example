@@ -1,3 +1,16 @@
+# Quickstart for the students of the class:
+
+- clone this repo
+- run these commands to start the app:
+
+```
+npm install
+npm start
+```
+
+# Create React App generated docs
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
